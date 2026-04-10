@@ -42,12 +42,12 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e atualmente **Estagiár
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanrezendee&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ### 🐍 Minha Jornada de Commits
 <p align="center">
-  <img src="https://github.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/Natanrezendee/Natanrezendee/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
