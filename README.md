@@ -4,7 +4,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e atualmente **Estagiár
 
 ### 👨‍💻 Sobre mim
 * 🔭 **Atualmente:** Atuando no desenvolvimento de soluções Fullstack para a Prefeitura do Rio de Janeiro.
-* 🌱 **Evoluindo em:** Engenharia de Dados (ETL, Validação e Extração), Backend com **Java**, **Python** e **Linguagem C**.
+* 🌱 **Evoluindo em:**  Cloud (DevOps, Infrastreturua em nuvem, desenvolvimento em nuvem e MLOps), Backend com **Java**, **Python** e **Linguagem C**.
 * 🎨 **Front-end:** Criando interfaces modernas e funcionais com **HTML5** e **CSS3**.
 * ⚡ **Diferencial:** Especialista em automação de processos e integração de dados para otimização de fluxos de trabalho.
 * 👯 **Objetivo:** Colaborar em projetos estratégicos onde a tecnologia e os dados gerem valor real.
